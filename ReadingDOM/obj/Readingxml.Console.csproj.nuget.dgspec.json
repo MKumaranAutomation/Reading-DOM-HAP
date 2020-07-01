@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn_Tech\\Azure_DevOps\\ReadingDOM_HAP\\ReadingDOM\\ReadingDOM\\Readingxml.Console.csproj": {}
+    "E:\\GitHub\\Reading-DOM-HAP\\ReadingDOM\\Readingxml.Console.csproj": {}
   },
   "projects": {
-    "E:\\Learn_Tech\\Azure_DevOps\\ReadingDOM_HAP\\ReadingDOM\\ReadingDOM\\Readingxml.Console.csproj": {
+    "E:\\GitHub\\Reading-DOM-HAP\\ReadingDOM\\Readingxml.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn_Tech\\Azure_DevOps\\ReadingDOM_HAP\\ReadingDOM\\ReadingDOM\\Readingxml.Console.csproj",
+        "projectUniqueName": "E:\\GitHub\\Reading-DOM-HAP\\ReadingDOM\\Readingxml.Console.csproj",
         "projectName": "Readingxml.Console",
-        "projectPath": "E:\\Learn_Tech\\Azure_DevOps\\ReadingDOM_HAP\\ReadingDOM\\ReadingDOM\\Readingxml.Console.csproj",
+        "projectPath": "E:\\GitHub\\Reading-DOM-HAP\\ReadingDOM\\Readingxml.Console.csproj",
         "packagesPath": "C:\\Users\\muthukumaran.m\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn_Tech\\Azure_DevOps\\ReadingDOM_HAP\\ReadingDOM\\ReadingDOM\\obj\\",
+        "outputPath": "E:\\GitHub\\Reading-DOM-HAP\\ReadingDOM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

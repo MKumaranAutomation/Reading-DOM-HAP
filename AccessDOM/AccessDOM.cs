@@ -15,7 +15,7 @@ namespace AccessDOM
 
 		public static void Main(string[] args)
 		{
-			var csvFile = "E:\\Learn_Tech\\Azure_DevOps\\ReadingDOM_HAP\\ReadingDOM\\AccessDOM\\SIPUrlFile.csv";
+			var csvFile = "E:\\GitHub\\Reading-DOM-HAP\\AccessDOM\\UrlFile.csv";
 			var web = new HtmlWeb();
 			int counter;
 
@@ -24,16 +24,16 @@ namespace AccessDOM
 				using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
 				{
 					var records = csv.GetRecords<InputFile>().ToList();
-					foreach (var url in records)
+					foreach (var record in records)
 					{
-						//var sipurl = records.Select(x => x.SIPUrl);
-						var doc = web.Load(url.SIPUrl);
+						string appUrl = record.Url.ToString();
+						var doc = web.Load(appUrl);
 						string docContent = doc.DocumentNode
-							.SelectNodes("//h1[@class = 'tagline']")
-							.FirstOrDefault().InnerText.ToString();
-						Console.WriteLine(url.SIPUrl);
+							.SelectNodes("(//span[@class ='nav-line-2 '])[1]")
+							.FirstOrDefault().InnerText.ToString().Replace("\n","").Trim();
+						Console.WriteLine(record.Url);
 						Assert.Multiple(()=> {
-							Assert.AreEqual(url.Tagline, docContent, "The Tag is not correct");
+							Assert.AreEqual(record.CreateAccount, docContent, "The Account Textis not correct");
 						});
 						
 					}

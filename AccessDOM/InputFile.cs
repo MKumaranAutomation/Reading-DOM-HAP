@@ -6,8 +6,8 @@ namespace AccessDOM
 {
 	public class InputFile
 	{
-		public string SIPUrl { get; set; }
-		public string Tagline { get; set; }
+		public string Url { get; set; }
+		public string CreateAccount { get; set; }
 		
 
 	}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn_Tech\\Azure_DevOps\\ReadingDOM_HAP\\ReadingDOM\\AccessDOM\\AccessDOM.csproj": {}
+    "E:\\GitHub\\Reading-DOM-HAP\\AccessDOM\\AccessDOM.csproj": {}
   },
   "projects": {
-    "E:\\Learn_Tech\\Azure_DevOps\\ReadingDOM_HAP\\ReadingDOM\\AccessDOM\\AccessDOM.csproj": {
+    "E:\\GitHub\\Reading-DOM-HAP\\AccessDOM\\AccessDOM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn_Tech\\Azure_DevOps\\ReadingDOM_HAP\\ReadingDOM\\AccessDOM\\AccessDOM.csproj",
+        "projectUniqueName": "E:\\GitHub\\Reading-DOM-HAP\\AccessDOM\\AccessDOM.csproj",
         "projectName": "AccessDOM",
-        "projectPath": "E:\\Learn_Tech\\Azure_DevOps\\ReadingDOM_HAP\\ReadingDOM\\AccessDOM\\AccessDOM.csproj",
+        "projectPath": "E:\\GitHub\\Reading-DOM-HAP\\AccessDOM\\AccessDOM.csproj",
         "packagesPath": "C:\\Users\\muthukumaran.m\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn_Tech\\Azure_DevOps\\ReadingDOM_HAP\\ReadingDOM\\AccessDOM\\obj\\",
+        "outputPath": "E:\\GitHub\\Reading-DOM-HAP\\AccessDOM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
