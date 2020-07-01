@@ -1,0 +1,15 @@
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\bin\Debug\netcoreapp3.1\AccessDOM.deps.json
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\bin\Debug\netcoreapp3.1\AccessDOM.dll
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\obj\Debug\netcoreapp3.1\AccessDOM.AssemblyInfoInputs.cache
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\obj\Debug\netcoreapp3.1\AccessDOM.AssemblyInfo.cs
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\bin\Debug\netcoreapp3.1\AccessDOM.pdb
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\obj\Debug\netcoreapp3.1\AccessDOM.dll
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\obj\Debug\netcoreapp3.1\AccessDOM.pdb
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\obj\Debug\netcoreapp3.1\AccessDOM.csprojAssemblyReference.cache
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\bin\Debug\netcoreapp3.1\AccessDOM.exe
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\bin\Debug\netcoreapp3.1\AccessDOM.runtimeconfig.json
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\bin\Debug\netcoreapp3.1\AccessDOM.runtimeconfig.dev.json
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\bin\Debug\netcoreapp3.1\CsvHelper.dll
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\bin\Debug\netcoreapp3.1\nunit.framework.dll
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\AccessDOM\obj\Debug\netcoreapp3.1\AccessDOM.csproj.CopyComplete

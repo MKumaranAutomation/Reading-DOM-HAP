@@ -1,0 +1,11 @@
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\ReadingDOM\bin\Debug\netcoreapp3.1\Readingxml.Console.exe
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\ReadingDOM\bin\Debug\netcoreapp3.1\Readingxml.Console.deps.json
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\ReadingDOM\bin\Debug\netcoreapp3.1\Readingxml.Console.runtimeconfig.json
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\ReadingDOM\bin\Debug\netcoreapp3.1\Readingxml.Console.runtimeconfig.dev.json
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\ReadingDOM\bin\Debug\netcoreapp3.1\Readingxml.Console.dll
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\ReadingDOM\bin\Debug\netcoreapp3.1\Readingxml.Console.pdb
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\ReadingDOM\obj\Debug\netcoreapp3.1\Readingxml.Console.AssemblyInfoInputs.cache
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\ReadingDOM\obj\Debug\netcoreapp3.1\Readingxml.Console.AssemblyInfo.cs
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\ReadingDOM\obj\Debug\netcoreapp3.1\Readingxml.Console.dll
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\ReadingDOM\obj\Debug\netcoreapp3.1\Readingxml.Console.pdb
+E:\Learn_Tech\Azure_DevOps\ReadingDOM_HAP\ReadingDOM\ReadingDOM\obj\Debug\netcoreapp3.1\Readingxml.Console.csprojAssemblyReference.cache
